@@ -35,11 +35,62 @@ Eribon, Didier. _Returning to Reims_. Semiotext(e), 2013. ISBN: 9781584351238. 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class participation {{< br >}}{{< br >}} _Note: Attendance at class is crucial given that this class meets only once a week. (Please note: If you miss more than 1 class session without permission of the instructor, your grade will be lowered \[½ of a letter grade for every two classes\])._  {{< br >}}{{< br >}}  | 10% |
-| Oral history assignment | 30% |
-| Museum exhibit design project | 30% |
-| Final paper | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation
+
+_Note: Attendance at class is crucial given that this class meets only once a week. (Please note: If you miss more than 1 class session without permission of the instructor, your grade will be lowered \[½ of a letter grade for every two classes\])._ 
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral history assignment
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Museum exhibit design project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detailed information on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
